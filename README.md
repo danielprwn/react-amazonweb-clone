@@ -1,4 +1,15 @@
 
+# React Amazon Web App Project.
+
+✔ Ability to transfer files to disk.
+✔ Login option with Google.
+
+
+## Technologies
+✅ HTML ✅ CSS ⚛ React JS ✅ Node
+
+
+Download the repository and run it locally:
 
 ### `npm install`
 
